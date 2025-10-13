@@ -37,6 +37,10 @@ Here we can access the dataset used in the project.
 - **TotalCost** : *Multiplication of SellingPrice and UnitsSold.*
 - **TotalCost_with_Shipping** : *Addition of ShippingCharges and TotalCost, wherever the ShippingCharges are applicable.*
 
+# 🗂 Cleaned Dataset
+Here we can access the cleaned dataset used in the project.  
+[Cleaned_Dataset](cleaned_ecommerce_furniture_dataset_2024.csv)
+
 
 # 🛠 Technology Stack
 
