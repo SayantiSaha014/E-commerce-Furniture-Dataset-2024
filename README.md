@@ -61,3 +61,6 @@ Here we can access the cleaned dataset used in the project.
 6. *Model Evaluation*
 7. *Conclusion*
 
+# Conclusion
+
+*In this project of e-commerce furniture, the dataset is used for the year 2024, and a logo is added, where we can understand that furniture enhances every corner where we place it. Here, we have used Linear Regression and Random Forest Regressor along with importing mean_squared_error and r2_score from sklearn. After evaluating the models, we can conclude which model performed better. Random Forest tends to perform better on complex datasets with high variance, while Linear Regression might work well if relationships are linear. So in this case, the Random Forest model has a much lower Mean Squared Error (MSE) and a significantly higher R-squared (R2) score compared to the Linear Regression model. This indicates that the Random Forest model was much better at predicting the 'UnitsSold' for this dataset.*
