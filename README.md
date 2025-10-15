@@ -25,7 +25,7 @@ The dataset is ripe for exploratory data analysis, market trend analysis, and pr
 
 # 🗂 Dataset
 Here we can access the dataset used in the project.  
-[Dataset](https://www.kaggle.com/datasets/kanchana1990/e-commerce-furniture-dataset-2024)
+[Dataset](ecommerce_furniture_dataset_2024.csv)
 
 # After Modifying The Columns:
 
