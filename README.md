@@ -38,13 +38,13 @@ Here we can access the dataset used in the project.
 - **TotalCost_with_Shipping** : *Addition of ShippingCharges and TotalCost, wherever the ShippingCharges are applicable.*
 
 # 🗂 Cleaned Dataset
-Here we can access the cleaned dataset used in the project.  
+Here, we can access the cleaned dataset used in the project.  
 [Cleaned_Dataset](cleaned_ecommerce_furniture_dataset_2024.csv)
 
 
 # 🛠 Technology Stack
 
-### 🐍 Python | 📊 Power BI | 🗄 SQL
+### 🐍 Python | 🗄 SQL | 📊 Power BI
 
 # 📚 Python Libraries
 - **Pandas** - Data manipulation
@@ -52,7 +52,41 @@ Here we can access the cleaned dataset used in the project.
 - **Matplotlib & Seaborn** - Data visualization
 - **scikit-learn** - Machine Learning Library
 
-# Steps:
+# 🗄 SQL
+- For database storage and data analysis.
+
+# 📊 Power BI
+- For visualization and dashboard creation.
+
+### 📦 Install Required Libraries
+Run the following command to install dependencies:
+```bash
+pip install pandas numpy
+```
+
+
+## 🚀 Installation & Setup Guide
+
+### 1️⃣ Install Dependencies
+Ensure all necessary libraries are installed by running:
+```bash
+pip install -r requirements.txt
+```  
+
+### 2️⃣ Data Cleaning & Structuring
+✔ Organized the cleaned dataset into :
+   - 🛒 `cleaned_ecommerce_furniture_dataset_2024`
+
+### 3️⃣ Load Data into SQL Database
+✔ Create the **SQL database**.  
+✔ Imported the cleaned dataset.  
+
+### 4️⃣ Analyze Data in Power BI
+✔ Open **Power BI Desktop**.  
+✔ Connect to the SQL database via **Home > Get Data > MySQL Server**.  
+✔ Load the table.  
+
+# Steps followed in Jupyter Notebook:
 1. *Data Collection*
 2. *Data Preprocessing*
 3. *Exploratory Data Analysis (EDA)*
